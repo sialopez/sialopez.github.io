@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8" lang="en-us">
+<title>Sia's Project</title>
+<h1>Sia's Website</h1>
+<body>
+    <style>
+        body{
+            background-color: mistyrose;
+        }
+        img{
+            margin-left: 2%;
+            width: 45%;
+        }
+        h1{
+            background-color: pink;
+            text-align: center;
+            font-size: 70px;
+            margin-top: 0px;
+        }
+        .videos{
+            margin-left: 1%;
+            width: 50%;
+        }
+        .Box1{
+            flex-wrap: wrap;
+            display: flex;
+            margin: auto;
+            padding: 2%;
+            width: 70%;
+        }
+        .boxinfo{
+            box-shadow: 10px 10px 10px black;
+            background-color: pink;
+            border-style: solid;
+            border-radius: 5px;
+            margin: auto;
+            color: pink;
+            width: 70%;
+        }
+        .text{
+            text-align: center;
+            padding-right: 1%;
+            padding-left: 1%;
+            font-size: 25px;
+            color: black;
+        }
+        
+    </style>
+    <div class="boxinfo">
+    <div class="text">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis pulvinar quam, sit amet lacinia lacus. Quisque nec tincidunt eros, sit amet pharetra enim. In sed imperdiet justo, quis tristique eros. Etiam posuere lorem condimentum mi tincidunt, vel venenatis purus dapibus. Morbi eu metus augue. Vestibulum ligula enim, vestibulum id dignissim in, lacinia sed nunc. Aenean mattis vehicula nunc a dictum. Pellentesque elit lacus, ultricies blandit mollis sit amet, pharetra sed est. Pellentesque dictum sapien velit, quis consectetur arcu fringilla ac.</p></div></div>
+    
+    <div class="Box1">
+    <img src="images/butterflies.jpg" alt="">
+    <div class="videos"><iframe width= 100% height="360" src="https://www.youtube.com/embed/FqtWie73s_8" allowfullscreen></iframe>
+        </div></div>
+    
+    <div class="boxinfo">
+    <div class="text">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis pulvinar quam, sit amet lacinia lacus. Quisque nec tincidunt eros, sit amet pharetra enim. In sed imperdiet justo, quis tristique eros. Etiam posuere lorem condimentum mi tincidunt, vel venenatis purus dapibus. Morbi eu metus augue. Vestibulum ligula enim, vestibulum id dignissim in, lacinia sed nunc. Aenean mattis vehicula nunc a dictum. Pellentesque elit lacus, ultricies blandit mollis sit amet, pharetra sed est. Pellentesque dictum sapien velit, quis consectetur arcu fringilla ac.</p></div>
+        </div>
+    
+</body>
+</html>
